@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is  CH.R.V.N.S.D.Rupika  and I'm a final year computer science student.</p>
+<p align="left">My name is  CH.R.V.N.S.D.Rupika  and I'm  recent  computer science graduate.</p>
 
 ###
 
